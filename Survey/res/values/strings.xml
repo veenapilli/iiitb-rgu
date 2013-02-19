@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Survey</string>
+   
+    <string name="app_name">Survey_tested</string>
     <string name="hello_world">Hello world! Changed at github :)</string>
     <string name="menu_settings">Settings</string>
 
