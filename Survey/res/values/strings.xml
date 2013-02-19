@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Survey</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world! Changed at github :)</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
