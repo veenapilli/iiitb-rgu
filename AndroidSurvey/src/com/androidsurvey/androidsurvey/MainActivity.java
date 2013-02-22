@@ -22,4 +22,11 @@ public class MainActivity extends Activity {
     public void hello(){
     	
     }
+    
+
+    public void hello22(){
+    	
+    }
+    
+    
 }
